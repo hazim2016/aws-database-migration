@@ -88,7 +88,7 @@ Enable PHP_imap.dll, PHP_intl.dll, PHP_opcache.dll
 <img src="https://i.imgur.com/B4R53Kc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Rename ost-sampleconfig.php to ost-config.php. Change permission setting from disabled inherentence and give all permission to everyone so osTicket can make changes to the file.
+Rename ost-sampleconfig.php to ost-config.php. Change permission setting from disabled inherentence and give all permission to everyone so osTicket can make changes to the file. In anycase dealing with permissions and access you have to give the least permission.
 </p>
 <br />
 
