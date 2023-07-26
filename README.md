@@ -20,10 +20,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> 
 <h2>List of Prerequisites</h2>
 
-- Azure
-- Resource Group
-- Virtual Machines
-- Windows 10
+- AWS
+- Docker
+- Kubernetes
+- Linux
+- EC2 instance
 
 
 <h2>Installation Steps</h2>
