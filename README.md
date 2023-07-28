@@ -20,8 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> 
 <h2>List of Prerequisites</h2>
 
-- AWS Free Tier Account
-- Docker
+- AWS account with root privilige
 - Kubernetes
 - Linux
 - EC2 instance
