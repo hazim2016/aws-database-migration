@@ -3,7 +3,7 @@
 </p>
 
 <h1>AWS Database Migration</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+In this tutorial I will be migrating a web application or wordpress from an on-premises into AWS.<br />
 
 
 
