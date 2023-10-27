@@ -7,8 +7,6 @@ In this tutorial I will be migrating a web application or wordpress from an on-p
 
 
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
