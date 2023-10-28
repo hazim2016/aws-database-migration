@@ -9,15 +9,12 @@ In this tutorial I will be migrating a web application or wordpress from an on-p
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- AWS account with root access
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
 
-- Windows 10</b> 
 <h2>List of Prerequisites</h2>
-
 - AWS account with root privilige
 - Kubernetes
 - Linux
