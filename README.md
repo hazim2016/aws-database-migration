@@ -7,12 +7,6 @@ In this tutorial I will be migrating a web application or wordpress from an on-p
 
 
 
-<h2>Environments and Technologies Used</h2>
-
-- AWS account with root access
-- Remote Desktop
-- Internet Information Services (IIS)
-
 
 <h2>List of Prerequisites</h2>
 
@@ -21,6 +15,12 @@ In this tutorial I will be migrating a web application or wordpress from an on-p
 - Linux
 - EC2 instance
 
+<h2>Steps </h2>
+
+- Provison the environment
+- Establish VPC peering between environments
+- Create and provision the AWS side infrastructure
+- Migrate the database
 
 <h2>Installation Steps</h2>
 
