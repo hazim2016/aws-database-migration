@@ -15,6 +15,7 @@ In this tutorial I will be migrating a web application or wordpress from an on-p
 
 
 <h2>List of Prerequisites</h2>
+
 - AWS account with root privilige
 - Kubernetes
 - Linux
