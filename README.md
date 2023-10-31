@@ -11,14 +11,12 @@ In this tutorial I will be migrating a web application or wordpress from an on-p
 <h2>List of Prerequisites</h2>
 
 - AWS account with root privilige
-- ON-premises
-- 
-- Linux
-- EC2 instance
+- provisioned ON-premises environment
+- provisioned AWS environment
+
 
 <h2>Steps </h2>
 
-- Provison the environment
 - Establish VPC peering between environments
 - Create and provision the AWS side infrastructure
 - Migrate the database
